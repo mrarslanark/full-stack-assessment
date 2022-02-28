@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  background-color: #6ecbb8;
+  padding: 24px;
+  margin: 0 24px;
+}
+
+.item {
+  flex-grow: 1;
+}
+
+.title {
+  color: white;
+  margin: 0px 0px 12px 0px;
+  font-size: medium;
+}
+
+.forestTitle {
+  color: white;
+  margin: 0px 0px 8px 0px;
+  font-size: small;
+}

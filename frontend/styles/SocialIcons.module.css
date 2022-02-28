@@ -1,0 +1,12 @@
+.social {
+  display: flex;
+  padding: 12px;
+}
+
+.social a {
+  padding: 0 12px;
+}
+
+.icon:focus {
+  background-color: red;
+}

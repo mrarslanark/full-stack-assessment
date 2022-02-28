@@ -1,0 +1,13 @@
+.topMenu {
+  display: flex;
+  align-items: center;
+}
+
+.topMenuItem {
+  padding: 0 18px;
+}
+
+.topMenuItem a {
+  color: white;
+  font-size: 13px;
+}
